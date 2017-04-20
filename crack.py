@@ -6,6 +6,8 @@ import os
 
 import math
 
+# test test
+
 class VectorCompare:
 def magnitude(self,concordance):
     total = 0
